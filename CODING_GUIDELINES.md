@@ -22,9 +22,12 @@ const FOO = 123;
 // 🗃️ export types
 export type { FOOBAR } from './index.d';
 
+// 🗃️ API
+export { someFn }
+
 ```
 
-#### method 
+#### method
 
 ```typescript
 /**
